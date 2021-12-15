@@ -16,3 +16,5 @@ Conclusion: Unfortunately, I wasn't able to complete the project as intended.
   I spent a lot of time researching how to do the web crawler portion of the
   project and ended up not saving enough time to properly research the 
   implementation methods of the machine learning algorithms we needed to do.
+  However, I managed to implement a Naive Bayes model using sklearn methods
+  and ended up with a prediction accuracy of 0.83%.
