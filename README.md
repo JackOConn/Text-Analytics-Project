@@ -2,7 +2,7 @@
 
 Team Members: Jack O'Connor
 
-Description: This project creates train, validation, nd test sets 
+Description: This project creates train, validation, and test sets 
   to be used for the Naive Bayes, SVM, and Logistic Regression
   classifiers in order to create a prediction accuracy of >75%.
   
