@@ -1,4 +1,4 @@
-# COS427_Final
+# Text Analytics Project
 
 Team Members: Jack O'Connor
 
